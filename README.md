@@ -3,8 +3,6 @@
 This repository serves as a back-up for the Batch 5 Gropu 3's final node project. To allow teammates not to download node_modules all the time, we intentionally included a zip file instead of unzipped files. 
 
 ## Demo
-
-[![]()](https://youtu.be/UeZriHQNLgQ "tcs-final-node-project-thumbnail")
 https://youtu.be/UeZriHQNLgQ
 
 ## Presentation
