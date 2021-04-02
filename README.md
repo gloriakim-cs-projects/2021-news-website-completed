@@ -7,5 +7,5 @@ This repository serves as a back-up for the Batch 5 Gropu 3's final node project
 https://youtu.be/UeZriHQNLgQ
 
 ## Presentation
+{google_docs}https://docs.google.com/presentation/d/1Iai9NOoctM9xalWCmoYMPiQ7qi8xxqGoM79rL8yuf5g/edit?usp=sharing{/google_docs}
 
-https://docs.google.com/presentation/d/1Iai9NOoctM9xalWCmoYMPiQ7qi8xxqGoM79rL8yuf5g/edit?usp=sharing
