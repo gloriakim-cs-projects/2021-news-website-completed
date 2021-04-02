@@ -4,6 +4,7 @@ This repository serves as a back-up for the Batch 5 Gropu 3's final node project
 
 ## Demo
 
+[![](https://youtu.be/UeZriHQNLgQ/0.jpg)](https://youtu.be/UeZriHQNLgQ "tcs-final-node-project-thumbnail")
 https://youtu.be/UeZriHQNLgQ
 
 ## Presentation
