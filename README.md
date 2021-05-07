@@ -1,6 +1,6 @@
 # TCS Final Node Project
 
-This repository serves as a back-up for the Batch 5 Gropu 3's final node project. To allow teammates not to download node_modules all the time, we intentionally included a zip file instead of unzipped files. 
+This repository serves as a back-up for Tata Consultancy Services Batch 5 Gropu 3's final node project. To allow teammates not to download node_modules all the time, we intentionally included a zip file instead of unzipped files. 
 
 ## Demo
 https://youtu.be/UeZriHQNLgQ
